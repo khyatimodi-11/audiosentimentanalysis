@@ -1,59 +1,62 @@
-appdirs 
-audioread
+appdirs @ file:///home/conda/feedstock_root/build_artifacts/appdirs_1603108395799/work
+audioread @ file:///home/conda/feedstock_root/build_artifacts/audioread_1607457400452/work
 backcall==0.2.0
 brotlipy==0.7.0
+cement==3.0.4
 certifi==2020.12.5
-cffi
-chardet
+cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1613413867554/work
+chardet @ file:///home/conda/feedstock_root/build_artifacts/chardet_1610093487176/work
 click==7.1.2
-cryptography 
+colorlog==4.8.0
+cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography_1616851478755/work
 cycler==0.10.0
 decorator==4.4.2
 Flask==1.1.2
 gunicorn==19.3.0
-idna 
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
 ipython==7.16.0
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi==0.18.0
 Jinja2==2.11.3
-joblib
-kiwisolver
-librosa==0.8.0
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1612898609989/work
+kiwisolver @ file:///home/conda/feedstock_root/build_artifacts/kiwisolver_1610099773791/work
+librosa @ file:///home/conda/feedstock_root/build_artifacts/librosa_1595413403988/work
 llvmlite==0.36.0
 MarkupSafe==1.1.1
-matplotlib
-numba
-numpy
-OCC==0.0.2.dev20190912195130
-olefile
-packaging
+matplotlib @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-suite_1611858709932/work
+numba @ file:///home/conda/feedstock_root/build_artifacts/numba_1616707886433/work
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1616933153033/work
+OCC==7.4.1
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1612459636436/work
 pandas==1.1.5
 parso==0.8.1
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow
-pooch
+Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1615243973365/work
+pooch @ file:///home/conda/feedstock_root/build_artifacts/pooch_1606467285986/work
 prompt-toolkit==3.0.18
 ptyprocess==0.7.0
-pycparser
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
 Pygments==2.8.1
-pyOpenSSL
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
 pyparsing==2.4.7
-PySocks
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1610291444829/work
 python-dateutil==2.8.1
 pytz==2021.1
-requests
+PyYAML==5.4.1
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1608156231189/work
 resampy==0.2.2
-scikit-learn
-scipy
+scikit-learn @ file:///home/conda/feedstock_root/build_artifacts/scikit-learn_1611079729065/work
+scipy @ file:///home/conda/feedstock_root/build_artifacts/scipy_1616878678759/work
 seaborn==0.11.1
-six
-SoundFile==0.10.3.post1
-SpeechRecognition
-threadpoolctl
-tornado
-traitlets==4.3.3
-urllib3
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+SoundFile @ file:///home/conda/feedstock_root/build_artifacts/pysoundfile_1607011569782/work
+SpeechRecognition @ file:///home/conda/feedstock_root/build_artifacts/speechrecognition_1610385178820/work
+threadpoolctl @ file:///tmp/tmp79xdzxkt/threadpoolctl-2.1.0-py3-none-any.whl
+tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1610094704591/work
+traitlets==5.0.5
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1615828766818/work
 wcwidth==0.2.5
 Werkzeug==1.0.1
