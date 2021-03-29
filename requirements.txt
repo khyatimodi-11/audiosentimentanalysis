@@ -27,7 +27,7 @@ MarkupSafe==1.1.1
 matplotlib==3.3.4
 numba==0.53.0
 numpy==1.19.5
-OCC==7.4.1
+OCC==0.0.2.dev20190912195130
 olefile==0.45.1
 packaging==20.9
 pandas==1.1.5
