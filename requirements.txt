@@ -25,7 +25,7 @@ MarkupSafe==1.1.1
 matplotlib
 numba
 numpy
-OCC==7.4.1
+OCC==0.0.2.dev20190912195130
 olefile
 packaging
 pandas==1.1.5
