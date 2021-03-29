@@ -8,6 +8,7 @@ click==7.1.2
 cycler==0.10.0
 decorator==4.4.2
 Flask==1.1.2
+gunicorn==20.1.0
 idna==2.10
 ipython==7.16.0
 ipython-genutils==0.2.0
@@ -43,9 +44,9 @@ scipy==1.5.4
 seaborn==0.11.1
 six==1.15.0
 SoundFile==0.10.3.post1
-SpeechRecognition
+SpeechRecognition @ file:///home/conda/feedstock_root/build_artifacts/speechrecognition_1610385178820/work
 threadpoolctl==2.1.0
-traitlets==4.3.3
+traitlets==5.0.5
 urllib3==1.26.4
 wcwidth==0.2.5
 Werkzeug==1.0.1
