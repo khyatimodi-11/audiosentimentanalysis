@@ -10,7 +10,7 @@ cryptography
 cycler==0.10.0
 decorator==4.4.2
 Flask==1.1.2
-gunicorn==20.1.0
+gunicorn==19.3.0
 idna 
 ipython==7.16.0
 ipython-genutils==0.2.0
@@ -19,7 +19,7 @@ jedi==0.18.0
 Jinja2==2.11.3
 joblib
 kiwisolver
-librosa
+librosa==0.8.0
 llvmlite==0.36.0
 MarkupSafe==1.1.1
 matplotlib
@@ -49,7 +49,7 @@ scikit-learn
 scipy
 seaborn==0.11.1
 six
-SoundFile 
+SoundFile==0.10.3.post1
 SpeechRecognition
 threadpoolctl
 tornado
